@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'd:\我的資料夾\NCU\資工大三課程_下\3_計算型智慧\HW1\New Ver\GUI_all.ui'
-#
-# Created by: PyQt5 UI code generator 5.13.0
-#
-# WARNING! All changes made in this file will be lost!
-
-
 import os, sys
 from PyQt5 import QtCore, QtGui, QtWidgets
 import autoCarClass
