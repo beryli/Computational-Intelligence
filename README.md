@@ -3,7 +3,6 @@
 Computational Intelligence homework
 
 # Fuzzy System
-![](https://i.imgur.com/WyZ59F2.png)
 
 Use fuzzy control system to turn the wheel, and show a gif file to display the auto car's track
 
